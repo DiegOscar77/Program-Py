@@ -33,7 +33,6 @@ while True:
         Controlador.InsertarReceta()
         Controlador.ActualizarReceta()
         Controlador.BorrarReceta()
-
     elif opcion == 5:
         Controlador.ListarProductos()
     elif opcion == 6:
